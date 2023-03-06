@@ -1,0 +1,18 @@
+{
+  "name": "app8",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --minify false --base /app8/",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pexels": "^1.4.0",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}
